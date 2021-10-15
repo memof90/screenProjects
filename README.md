@@ -6,13 +6,13 @@
 
 ## My Skills  👨🏼‍💻
 
-<a href="https://twitter.com/memof80">React Native<img src="https://img.icons8.com/color/96/000000/react-native.png" width="32"/></a>
+<a href="https://github.com/memof90/Signal-Clone-ReactNative">React Native<img src="https://img.icons8.com/color/96/000000/react-native.png" width="32"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/guillermo-andr%C3%A9s-figueredo-aranguren-814465127"> Flutter <img src="https://img.icons8.com/color/96/000000/flutter.png" width="32"/></a>
+<a href="https://github.com/memof90/Quiz-Flutter-Two"> Flutter <img src="https://img.icons8.com/color/96/000000/flutter.png" width="32"/></a>
 &nbsp;
-<a href="https://www.instagram.com/detodounpoquito_code"> Swift <img src="https://img.icons8.com/color/96/000000/swift.png" width="32"/></a>
+<a href="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi"> Swift <img src="https://img.icons8.com/color/96/000000/swift.png" width="32"/></a>
 &nbsp;
-<a href="https://www.instagram.com/detodounpoquito_code"> swiftUI <img src="https://img.icons8.com/fluency/96/000000/swiftui.png" width="32"/></a>
+<a href="https://github.com/memof90/Instagram-clone-swift"> swiftUI <img src="https://img.icons8.com/fluency/96/000000/swiftui.png" width="32"/></a>
 &nbsp;
 
 
