@@ -51,5 +51,29 @@ I'm work with differents programming languages but my experiencia as ios develop
 &nbsp;
 
 
+# <img class="logo" src="https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.01%20p.%C2%A0m..png?raw=true" width="32"> DataCRM 
+
+DataCRM Móvil is the application that allows you to optimize your business process in a simple way. Access all of your business opportunities, organize and manage them according to the sales phase they are in.<br>
+Your phone will be the best ally when interacting with your customers, since you can make calls, send emails and WhatsApp, schedule activities and create quotes. The best thing is that all these records will be automatically updated in the Web version.<br>
+
+What makes a DataCRM different?
+
+- Make the most of the new contact module.
+- Know the details of each of your contacts: Name, Email and telephone
+- Do not lose any activity with your contacts, look at your pending and the chronology with each one of them.
+- Now you can add the address to your customers' information.
+- Filter in the chronology by activities, comments, emails or all.
+- Take advantage of the new search option in the customer module and easily find the contacts of a specific customer.
+- Create and send your quotes
+- Synchronize your calendars and view your agenda
+- Complement your strategy of attracting sales opportunities
+
+https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.28.40%20p.%C2%A0m..png?raw=true
+
+https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.01%20p.%C2%A0m..png?raw=true
+
+https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.59%20p.%C2%A0m..png?raw=true
+
+
 
 
