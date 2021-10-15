@@ -144,7 +144,7 @@ App to mode Offline and Online
 
 
 
-## <img class="logo" src="hhttps://images-platform.99static.com/c4Pllmd_ZJMYixOgSwysONSItnw=/0x0:2000x2000/500x500/top/smart/99designs-contests-attachments/102/102142/attachment_102142414" width="32"> Goal Post
+## <img class="logo" src="https://images-platform.99static.com/c4Pllmd_ZJMYixOgSwysONSItnw=/0x0:2000x2000/500x500/top/smart/99designs-contests-attachments/102/102142/attachment_102142414" width="32"> Goal Post
 
 App to mode Offline and Online 
 
