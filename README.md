@@ -4,6 +4,11 @@
 
 📱Mobil Developer,👨🏼‍💻Web Developer, 💻 IOS developer. <br>
 
+
+I’m a software engineer with over 3 years 3 months of commercial iOS development experience.<br>
+My purpose is to create apps that people just love to use.<br>
+I'm work with differents programming languages but my experiencia as ios development.<br>
+
 ## My Skills  👨🏼‍💻
 
 <a href="https://github.com/memof90/Signal-Clone-ReactNative">React Native<img src="https://img.icons8.com/color/96/000000/react-native.png" width="32"/></a>
@@ -15,10 +20,7 @@
 <a href="https://github.com/memof90/Instagram-clone-swift"> swiftUI <img src="https://img.icons8.com/fluency/96/000000/swiftui.png" width="32"/></a>
 &nbsp;
 
-
-I’m a software engineer with over 3 years 3 months of commercial iOS development experience.<br>
-My purpose is to create apps that people just love to use.<br>
-I'm work with differents programming languages but my experiencia as ios development 
+## My Social Medias
 
 <a href="https://twitter.com/memof80"><img src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a>
 &nbsp;
