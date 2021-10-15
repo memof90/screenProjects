@@ -57,7 +57,7 @@ I'm work with differents programming languages but my experiencia as ios develop
 DataCRM Móvil is the application that allows you to optimize your business process in a simple way. Access all of your business opportunities, organize and manage them according to the sales phase they are in.<br>
 Your phone will be the best ally when interacting with your customers, since you can make calls, send emails and WhatsApp, schedule activities and create quotes. The best thing is that all these records will be automatically updated in the Web version.<br>
 
-> Over 716,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
+> Over downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
 
 🤩 Featured by  Apple 
 
@@ -88,9 +88,59 @@ App to mode Offline and Online
  </table>
  
   <img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/RPReplay_Final1632175546.gif?raw=true" width=270 height=480>
+  
+ ## <img class="logo" src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/Assets.xcassets/AppIcon.appiconset/120.png?raw=true" width="32"> Movie App with MVVM Desing Pattern
 
+App to mode Offline and Online 
 
+> Programatically, Core Data, Generics, Objective C, URlsession, Kingfisher, X-player, Ns-Cahe, Search Online and Offline 
 
+ <table>
+  <tr>
+    <td>Animations images</td>
+    <td>Implenting Videos</td>
+    <td>Videos Controls</td>
+   <td>Video Example</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Recording%20-%20iPhone%2012%20Pro%20-%202021-09-17%20at%2013.50.10.gif?raw=true" width=270 height=480></td>
+       <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-09-20%20at%2017.15.11.png?raw=true" width=270 height=480></td>
+          <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-09-20%20at%2017.15.30.png?raw=true" width=270 height=480></td>
+             <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-09-20%20at%2017.15.23.png?raw=true" width=270 height=480></td>
+  </tr>
+ </table>
+ 
+  <img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/RPReplay_Final1632175546.gif?raw=true" width=270 height=480>
+
+## <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Apple_News_icon_%28iOS%29.png" width="32"> News App
+
+App to mode Offline and Online 
+
+> Storyboard, Core Data, Generics, MVVM , URlsession, Kingfisher, Ns-Cahe, Search Online 
+
+<table>
+  <tr>
+    <td>HomeView</td>
+     <td>View With searchBar</td>
+     <td>Search Online</td>
+     <td>Search Online</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/AnimateApp/screenApp/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202021-10-08%20at%2014.00.52.png?raw=true"></td>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/AnimateApp/screenApp/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202021-10-08%20at%2014.00.57.png?raw=true"></td>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/AnimateApp/screenApp/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202021-10-08%20at%2014.01.18.png?raw=true"></td>
+     <td><img src="https://github.com/memof90/screenProjects/blob/master/AnimateApp/screenApp/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202021-10-08%20at%2014.01.36.png?raw=true"></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td>Demo One</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/AnimateApp/AppVideo/WhatsApp%20Video%202021-10-07%20at%2010.26.42%20PM.gif?raw=true"></td>
+  </tr>
+ </table>
 
 
 
