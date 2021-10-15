@@ -69,6 +69,8 @@ What makes a DataCRM different?
 - Synchronize your calendars and view your agenda
 - Complement your strategy of attracting sales opportunities
 
+<img src="https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.28.40%20p.%C2%A0m..png?raw=true"/>
+
 https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.28.40%20p.%C2%A0m..png?raw=true
 
 https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.01%20p.%C2%A0m..png?raw=true
