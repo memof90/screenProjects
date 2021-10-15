@@ -179,7 +179,7 @@ App to mode Offline and Online
  
  # My Apps or Projects Open source 👨🏼‍💻📱
  
- ## <img class="logo" src="https://icons8.com/icon/aFxfm4qI75vj/programmer" width="32"> Carousel React Native
+ ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Carousel React Native
  
  > Carousel React Native Witout libraries 
 
@@ -192,15 +192,15 @@ App to mode Offline and Online
   </tr>
  </table>
  
-  ## <img class="logo" src="https://icons8.com/icon/aFxfm4qI75vj/programmer" width="32"> Todo App React Native
+  ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Todo App React Native
  
- > Carousel React Native Witout libraries 
+ > Todo App React Native UI  
 
   <table>
   <tr>
-    <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Recording%20-%20iPhone%2012%20Pro%20-%202021-08-04%20at%2019.30.22.gif?raw=true"></td>
-       <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-08-06%20at%2018.39.47.png?raw=true"></td>
-       <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-08-06%20at%2018.39.57.png?raw=true"></td>
+    <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Recording%20-%20iPhone%2012%20Pro%20-%202021-08-04%20at%2019.30.22.gif?raw=true" width=400 height=600></td>
+       <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-08-06%20at%2018.39.47.png?raw=true" width=400 height=600></td>
+       <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-08-06%20at%2018.39.57.png?raw=true" width=400 height=600></td>
   </tr>
  </table>
  
