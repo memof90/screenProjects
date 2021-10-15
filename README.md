@@ -247,7 +247,27 @@ App to mode Offline and Online
   <a href="https://github.com/memof90/React-Native-CheckBox"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
  
  
+ # Projects Full Stack 👨🏼‍💻🤓
  
+  
+   ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Inventory Platform
+ 
+ > PHP,Javascript, Boostrap, Ajax,SQL
+
+  <table>
+  <tr>
+    <td><img src="https://i.postimg.cc/wxGkxrf0/screencapture-lascteosbelen-000webhostapp-ingreso-2021-01-05-17-02-47.png" width=400 height=600></td>
+     <td><img src="https://i.postimg.cc/Dm3JJ1by/screencapture-lascteosbelen-000webhostapp-inicio-2021-01-05-17-07-01.png" width=400 height=600></td>
+  </tr>
+ </table>
+ 
+## url del sitio 
+https://lascteosbelen.000webhostapp.com/ingreso
+ 
+  <a href="https://github.com/memof90/plataformaInventario"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+ 
+ 
+
  
  
 
