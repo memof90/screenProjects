@@ -89,6 +89,8 @@ App to mode Offline and Online
  
   <img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/RPReplay_Final1632175546.gif?raw=true" width=270 height=480>
   
+  <a href="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+  
  ## <img class="logo" src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/Assets.xcassets/AppIcon.appiconset/120.png?raw=true" width="32"> Movie App with MVVM Desing Pattern
 
 App to mode Offline and Online 
@@ -111,6 +113,9 @@ App to mode Offline and Online
  </table>
  
   <img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/RPReplay_Final1632175546.gif?raw=true" width=270 height=480>
+  
+ 
+   <a href="https://github.com/memof90/MovieApp-MVVM"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
 ## <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Apple_News_icon_%28iOS%29.png" width="32"> News App
 
@@ -143,6 +148,7 @@ App to mode Offline and Online
  </table>
 
 
+   <a href="https://github.com/memof90/NewsApp-swift"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
 ## <img class="logo" src="https://images-platform.99static.com/c4Pllmd_ZJMYixOgSwysONSItnw=/0x0:2000x2000/500x500/top/smart/99designs-contests-attachments/102/102142/attachment_102142414" width="32"> Goal Post
 
@@ -177,6 +183,8 @@ App to mode Offline and Online
   </tr>
  </table>
  
+ <a href="https://github.com/memof90/goalPost-coreData-Swift"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+ 
  # My Apps or Projects Open source 👨🏼‍💻📱
  
  ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Carousel React Native
@@ -192,6 +200,8 @@ App to mode Offline and Online
   </tr>
  </table>
  
+  <a href="https://github.com/memof90/Carousel-Con-ReactNative"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+ 
   ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Todo App React Native
  
  > Todo App React Native UI  
@@ -203,6 +213,8 @@ App to mode Offline and Online
        <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-08-06%20at%2018.39.57.png?raw=true" width=400 height=600></td>
   </tr>
  </table>
+ 
+  <a href="https://github.com/memof90/TodoApp-ReactNative"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
  
    ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Accordion React Native
  
@@ -223,11 +235,16 @@ App to mode Offline and Online
  
  <img src="https://github.com/memof90/Accordion-React-Native/blob/main/image/full%20stack.gif?raw=true">
  
+  <a href="https://github.com/memof90/Accordion-React-Native"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+ 
+ 
   ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> React Native CheckBox
  
  >  React Native Checkbox without Libraries  
  
  <img src="https://github.com/memof90/React-Native-CheckBox/blob/master/src/Images/Grabación%20de%20pantalla%202021-08-10%20a%20la(s)%201.59.19%20p.%C2%A0m..gif?raw=true">
+ 
+  <a href="https://github.com/memof90/React-Native-CheckBox"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
  
  
  
