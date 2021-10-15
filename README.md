@@ -177,6 +177,34 @@ App to mode Offline and Online
   </tr>
  </table>
  
+ # My Apps or Projects Open source 👨🏼‍💻📱
+ 
+ ## <img class="logo" src="https://icons8.com/icon/aFxfm4qI75vj/programmer" width="32"> Carousel React Native
+ 
+ > Carousel React Native Witout libraries 
+
+  <table>
+  <tr>
+    <td>Carousel React Native</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/Carousel-Con-ReactNative/blob/main/images/Grabación%20de%20pantalla%202021-07-21%20a%20la(s)%204.52.12%20p.%C2%A0m..gif?raw=true"></td>
+  </tr>
+ </table>
+ 
+  ## <img class="logo" src="https://icons8.com/icon/aFxfm4qI75vj/programmer" width="32"> Todo App React Native
+ 
+ > Carousel React Native Witout libraries 
+
+  <table>
+  <tr>
+    <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Recording%20-%20iPhone%2012%20Pro%20-%202021-08-04%20at%2019.30.22.gif?raw=true"></td>
+       <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-08-06%20at%2018.39.47.png?raw=true"></td>
+       <td><img src="https://github.com/memof90/TodoApp-ReactNative/blob/master/imagesReadme/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-08-06%20at%2018.39.57.png?raw=true"></td>
+  </tr>
+ </table>
+ 
+ 
  
 
 
