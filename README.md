@@ -57,25 +57,39 @@ I'm work with differents programming languages but my experiencia as ios develop
 DataCRM Móvil is the application that allows you to optimize your business process in a simple way. Access all of your business opportunities, organize and manage them according to the sales phase they are in.<br>
 Your phone will be the best ally when interacting with your customers, since you can make calls, send emails and WhatsApp, schedule activities and create quotes. The best thing is that all these records will be automatically updated in the Web version.<br>
 
-What makes a DataCRM different?
+> Over 716,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
 
-- Make the most of the new contact module.
-- Know the details of each of your contacts: Name, Email and telephone
-- Do not lose any activity with your contacts, look at your pending and the chronology with each one of them.
-- Now you can add the address to your customers' information.
-- Filter in the chronology by activities, comments, emails or all.
-- Take advantage of the new search option in the customer module and easily find the contacts of a specific customer.
-- Create and send your quotes
-- Synchronize your calendars and view your agenda
-- Complement your strategy of attracting sales opportunities
+🤩 Featured by  Apple 
 
 <img src="https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.28.40%20p.%C2%A0m..png?raw=true"/>
 
-https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.28.40%20p.%C2%A0m..png?raw=true
 
-https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.01%20p.%C2%A0m..png?raw=true
 
-https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.59%20p.%C2%A0m..png?raw=true
+## <img class="logo" src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/Assets.xcassets/AppIcon.appiconset/120.png?raw=true" width="32"> Movie App
+
+App to mode Offline and Online 
+
+> Programatically, Core Data, Generics, Objective C, URlsession, Kingfisher, X-player, Ns-Cahe, Search Online and Offline 
+
+ <table>
+  <tr>
+    <td>Animations images</td>
+    <td>Implenting Videos</td>
+    <td>Videos Controls</td>
+   <td>Video Example</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Recording%20-%20iPhone%2012%20Pro%20-%202021-09-17%20at%2013.50.10.gif?raw=true" width=270 height=480></td>
+       <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-09-20%20at%2017.15.11.png?raw=true" width=270 height=480></td>
+          <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-09-20%20at%2017.15.30.png?raw=true" width=270 height=480></td>
+             <td><img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-09-20%20at%2017.15.23.png?raw=true" width=270 height=480></td>
+  </tr>
+ </table>
+ 
+  <img src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/ScreenApp/RPReplay_Final1632175546.gif?raw=true" width=270 height=480>
+
+
+
 
 
 
